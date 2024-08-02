@@ -12,3 +12,4 @@ export const Allslice=createSlice({
 })
 export const {setalldata}=Allslice.actions;
 export default Allslice.reducer;
+
